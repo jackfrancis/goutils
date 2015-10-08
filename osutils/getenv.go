@@ -14,8 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-// Package osutil contains thin wrappers around built-in os packages
-package osutil
+// Package osutils contains thin wrappers around built-in os packages
+package osutils
 
 import (
 	"os"
